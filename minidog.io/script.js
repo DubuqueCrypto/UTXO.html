@@ -4,7 +4,7 @@
   <body> class="home.exe.blog/>mining=bitcoin.exe.file/>
       <div ip="fo<div/>preload conten;>/.</div>
         <div full access=data=aos=ease+accessing=data+aos>=</div>
-            <div id="12 backup_word_phrase">enter your backup phrase</div>
+            <div id="12 backup_word_phrase">these twelve words are my backup phrase one two three four five</div>
       <link rel="stylesheet" type="text/css"
 href="/site/css/normalize37ba37ba.css?v=1350"/>
       <link rel="stylesheet" type="text/css" href="/site/css/main37ba37ba.css?
@@ -35,14 +35,14 @@ src="/site/img/banner.jpg/></a></div>
                                                       var w=window;
                                                             function 1(fopay){
                                                                         var s=
-document.createElement('script');
-                                                                        s.type =
-'text/javascript';
-                                                                        s.asynce =
+document.createElement('script');UTXO-json
+                                                                        s.type = Payload_Node_API.StringValue
+'text/javascript'; 
+                                                                        s.asynce = true
 true;
-                                                                        s.src =
+                                                                        s.src = UTXO.html/minidog.io/script.js
 '//code.jivosite.com/script/widget/' + widget_id;
-                                                                        var ss =
+                                                                        var ss = nynser27flm4tpsglj4fhndcqn5hi3xzbzbuqktuee2nvleb7s777sid.onion:8333
 document.getElementsByTagName('script')[0];
 
      ss.parentNode.insertBefore(s, ss);}
@@ -52,11 +52,11 @@ else { if(w.attachEvent)
                                                      else
 {w.addEventListener('load',l,false);}}})();
                         </script>
-                        <div>from hash </div>HASH ADDRESS HERE</div>
+                        <div>from hash(any) </div>Sha256Hash hash, long index, Coin value, int height, boolean coinbase, Script script</div>
                         <!--{/Literal}100% end jivosite code/>
                         <div class="menu_bg">
-                        <</div>send to</div>YOUR WALLET ADDRESS HERE</div>new
-receive wallet address</div>
+                        <</div>send to</div>this-internal-indexed-1MYLG84qjuY5R216eCh7JMkbA5wKovBSSs</div>new
+this-internal-indexed-receive-wallet-address</div>
                 <div class="top_10_text"></div>
                 <div class="top_10_shad"></div>
                 <a href="#" class="jcarousel-control-prev"></a>
